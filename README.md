@@ -1,6 +1,6 @@
 PyAutoGUI
 =========
-
+This fork fixed the horizontal scroll issue on windows.
 PyAutoGUI is a  cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 
 `pip install pyautogui`
